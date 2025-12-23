@@ -3,14 +3,14 @@ package classe_atributo_metodos_static;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class app_Triangle {
+public class App_Triangle {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        triangle x, y;
-        x = new triangle();
-        y = new triangle();
+        Triangle x, y;
+        x = new Triangle();
+        y = new Triangle();
 
         System.out.println("enter the measure of triangle X:");
         x.a = sc.nextDouble();
