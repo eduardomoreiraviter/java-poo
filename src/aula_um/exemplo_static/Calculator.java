@@ -1,4 +1,4 @@
-package exemplo_static;
+package aula_um.exemplo_static;
 
 public class Calculator {
 

@@ -1,4 +1,4 @@
-package classe_atributo_metodos_static;
+package aula_um.classe_atributo_metodos_static;
 
 import java.util.Locale;
 import java.util.Scanner;

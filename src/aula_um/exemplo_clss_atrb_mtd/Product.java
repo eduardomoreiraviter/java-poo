@@ -1,4 +1,4 @@
-package exemplo_clss_atrb_mtd;
+package aula_um.exemplo_clss_atrb_mtd;
 
 public class Product {
 
