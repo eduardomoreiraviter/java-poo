@@ -1,4 +1,4 @@
-package vetor_parte_dois;
+package aula_dois.vetor_parte_dois;
 
 public class Product {
 

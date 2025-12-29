@@ -1,4 +1,4 @@
-package vetor_parte_dois;
+package aula_dois.vetor_parte_dois;
 
 import java.util.Locale;
 import java.util.Scanner;
